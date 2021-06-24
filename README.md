@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a data scientist working in consulting. Have an experience in fullstack web development and business intelligence analytics.
+
+As a data scientist, I'm interested in :ab: testing and general-purpose classification models.
+As a person, I love running :running:.
+
+Currently working with Python :snake: and SQL.
+
+Have an experience in:
+* PHP (Laravel)
+* Javascript
+* HTML/CSS
