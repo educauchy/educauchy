@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a data scientist working in consulting. Have an experience in fullstack web development / software engineering and business intelligence data analytics.
+I'm a data scientist working in consulting. Have an experience in software engineering and data analytics.
 
-As a data scientist, I'm interested in statistics A/B-testing, customer and marketing analytics.
+As a data scientist, I'm interested in statisticsб A/B-testing, customer and marketing analytics.
 
 Currently mostly work with Python and SQL.
 
-![Vadim's GitHub stats](https://github-readme-stats.vercel.app/api?username=educauchy&count_private=true&show_icons=true&theme=highcontrast)
+![Vadim's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=educauchy&count_private=true&show_icons=true&theme=highcontrast&layout=compact)
