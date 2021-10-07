@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 I'm a data scientist working in consulting. Have an experience in fullstack web development / software engineering and business intelligence data analytics.
 
-As a data scientist, I'm interested in A/B-testing, marketing and retail-related problems.
-As a person, I love running :running:.
+As a data scientist, I'm interested in statistics A/B-testing, customer and marketing analytics.
 
-Currently mostly work with Python :snake: and SQL.
+Currently mostly work with Python and SQL.
+
+![Vadim's GitHub stats](https://github-readme-stats.vercel.app/api?username=educauchy&count_private=true&show_icons=true&theme=highcontrast)
