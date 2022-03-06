@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a data scientist working in consulting. Have an experience in software engineering and data analytics.
 
-As a data scientist, I'm interested in statisticsб A/B-testing, customer and marketing analytics.
+As a data scientist, I'm interested in customer analytics, marketing and retail.
 
 Currently mostly work with Python and SQL.
 
