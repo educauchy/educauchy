@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 I'm a data scientist working in consulting. Have an experience in software engineering and data analytics.
 
-As a data scientist, I'm interested in customer analytics, marketing and retail.
+My areas of interest are customer analytics, marketing and retail.
 
-Currently mostly work with Python and SQL.
+Currently mostly work with Python+SQL stack.
 
 ![Vadim's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=educauchy&count_private=true&show_icons=true&theme=highcontrast&layout=compact&hide=jupyter%20notebook)
