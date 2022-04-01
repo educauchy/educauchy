@@ -21,4 +21,4 @@ As a data scientist, I'm interested in customer analytics, marketing and retail.
 
 Currently mostly work with Python and SQL.
 
-![Vadim's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=educauchy&count_private=true&show_icons=true&theme=highcontrast&layout=compact)
+![Vadim's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=educauchy&count_private=true&show_icons=true&theme=highcontrast&layout=compact&hide=jupyter%20notebook)
