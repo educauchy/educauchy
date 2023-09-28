@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a data scientist working in consulting. Have an experience in software engineering and data analytics.
+I'm a machine learning engineer working in consulting industry. My areas of interest are customer analytics, marketing and retail where I'm particulary interested in recommender systems, dynamic pricing and uplift modeling.
 
-My areas of interest are customer analytics, marketing and retail.
-
-Currently mostly work with Python+SQL stack.
+Currently I mostly work with the following tech stack: Python, SQL, Airflow, MLflow, Docker.
 
 ![Vadim's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=educauchy&count_private=true&show_icons=true&theme=highcontrast&layout=compact&hide=jupyter%20notebook)
